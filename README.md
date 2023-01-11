@@ -8,7 +8,7 @@ Eu desenvolvi esta interface, com o intuito de práticar a codificação com bas
 
 ## Live Preview
 
-https://reactjs-website-1.herokuapp.com/
+
 
 <img src="https://github.com/gilliard-code/website1/blob/main/printscreen.png" style="width: 450px" />
 
