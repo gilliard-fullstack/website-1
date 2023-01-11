@@ -1,0 +1,27 @@
+/* Left */
+.left {
+    width: 40vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+.imageBox {
+    width: 35vw;
+    height: 88vh;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(51, 51, 51);
+}
+
+.characterBox {
+    width: 31vw;
+    height: 81vh;
+    border-radius: 20px;
+    background: url('../../../img/character.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}

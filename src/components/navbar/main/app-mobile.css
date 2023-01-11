@@ -1,0 +1,64 @@
+@media screen and (max-width: 500px) {
+
+    .hamburguer {
+        width: 100vw;
+        height: 10vh;
+        font-size: 7px;
+        color: rgb(255, 255, 255);
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .navContent {
+        z-index: 1000;
+        display: none;
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0px 40px;
+        border: 5px solid lightblue;
+    }
+
+    .logo {
+        font-size: 40px;
+        padding: 40px;
+    }
+
+    .navbar {
+        list-style: none;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .item {
+        padding: 40px 10px;
+        color: rgb(79, 79, 79);
+        font-size: 30px;
+    }
+
+    .navContent,
+    .searchBar,
+    .searchBox,
+    .icon,
+    .input,
+    .btSearch,
+    .profile,
+    .avatar,
+    .username,
+    .status {
+        display: none;
+    }
+
+
+    .status {
+        color: rgb(0, 255, 140);
+    }
+
+}
