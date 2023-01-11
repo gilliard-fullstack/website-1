@@ -1,4 +1,4 @@
-# 😀 ReactJS Website 1 | UI Design
+# 😀 ReactJS Website 1 | UI Design 😃
 
 > `::` Code made with 💓 by **Gilliard** `::`
 Eu desenvolvi esta interface, com o intuito de práticar a codificação com base em Design UI e tornar o projeto realidade. `::`
@@ -24,7 +24,7 @@ https://dribbble.com/shots/18314426-Abstract-Minimalist-Character-Design-Illustr
 ## Clonando o Repositório
 
 ```bash
-git clone https://github.com/gilliard-code/website1.git
+git clone https://github.com/gilliard-fullstack/website-1.git
 ```
 
 ### Requerimentos
